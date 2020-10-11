@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, Stefan here 👋
+
+- 🔭 I’m currently working on nboarding.com, integrationservice.io and omnited.com
+
+- 📫 How to reach me
+
 
 <!--
 **stefanwuthrich/stefanwuthrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
