@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on nboarding.com, integrationservice.io and omnited.com
 
-- 📫 How to reach me
+## 📫 How to reach me
+* https://www.linkedin.com/in/stefanwuthrich/
+* https://altafino.com
 
 
 <!--
