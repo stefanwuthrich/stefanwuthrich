@@ -1,6 +1,7 @@
 ### Hi there, Stefan here 👋
 
 - 🔭 I’m currently working on https://nboarding.com, https://integrationservice.io and https://omnited.com
+- 🔭 Active projects i did https://fullstackjob.com, https://golangjob.xyz and https://kunvenu.com
 
 ## 📫 How to reach me
 * https://www.linkedin.com/in/stefanwuthrich/
