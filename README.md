@@ -8,8 +8,8 @@
 * https://altafino.com
 
 
-![](https://github-readme-stats.vercel.app/api?username=altafino&show_icons=true&theme=tokyonight&line_height=27)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=altafino&hide=css,java,html&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=stefanwuthrich&count_private=true&show_icons=true&theme=tokyonight&line_height=27)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanwuthrich&count_private=true&hide=css,java,html&theme=tokyonight)
 
 <!--
 **stefanwuthrich/stefanwuthrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
