@@ -5,7 +5,7 @@
 - 🔭 See also: Organization repositories: https://github.com/altafino
 
 ## 📫 How to reach me
-* https://www.linkedin.com/in/stefanwuthrich/
+* [![LinkedIn](https://img.shields.io/badge/Stefan%20Wuthrich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanwuthrich/)](https://www.linkedin.com/in/stefanwuthrich/) 
 * https://altafino.com
 * https://t.me/altafino
 
