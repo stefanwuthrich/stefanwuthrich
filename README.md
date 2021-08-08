@@ -14,7 +14,7 @@
 * [![LinkedIn](https://img.shields.io/badge/Stefan%20Wuthrich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanwuthrich/)](https://www.linkedin.com/in/stefanwuthrich/) 
 * [Altafino - Full-Stack Developer (Go, JS, React, Vue)](https://altafino.com)
 * [Telegram](https://t.me/altafino)
-* [![Twitter](https://twitter.com/bonfaru)
+* [Twitter](https://twitter.com/bonfaru)
 
 ![](https://github-readme-stats.vercel.app/api?username=stefanwuthrich&count_private=true&show_icons=true&theme=tokyonight&line_height=27)
 
