@@ -4,9 +4,9 @@
 * 🔭 I tweet about daily about interesting stuff done with #golang https://twitter.com/gloangch
 
 * 🔭 Active projects i did
-** Developer Job Boards : https://fullstackjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
-** Social Media Post Tool for Teams https://kunvenu.com
-** Work/Task Management Tool for Remote Teams https://omnited.com
+* Developer Job Boards : https://fullstackjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
+* Social Media Post Tool for Teams https://kunvenu.com
+* Work/Task Management Tool for Remote Teams https://omnited.com
 
 * 🔭 See also: Organization repositories: https://github.com/altafino
 
