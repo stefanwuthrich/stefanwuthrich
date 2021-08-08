@@ -2,10 +2,12 @@
 
 * 🔭 I’m currently working on "Automate your Data Transfer with our Integration PaaS" https://iomate.io
 * 🔭 I tweet about daily about interesting stuff done with #golang https://twitter.com/gloangch
+
 * 🔭 Active projects i did
-** Developer Job Boards : https://fullstackjob.com , https://golangjob.xy z, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
+** Developer Job Boards : https://fullstackjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
 ** Social Media Post Tool for Teams https://kunvenu.com
 ** Work/Task Management Tool for Remote Teams https://omnited.com
+
 * 🔭 See also: Organization repositories: https://github.com/altafino
 
 ## 📫 How to reach me
