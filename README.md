@@ -1,12 +1,12 @@
 ### Hi there, Stefan here 👋
 
-- 🔭 I’m currently working on "Automate your Data Transfer with our Integration PaaS" https://iomate.io
-- 🔭 I tweet about daily about interesting stuff done with #golang https://twitter.com/gloangch
-- 🔭 Active projects i did
+* 🔭 I’m currently working on "Automate your Data Transfer with our Integration PaaS" https://iomate.io
+* 🔭 I tweet about daily about interesting stuff done with #golang https://twitter.com/gloangch
+* 🔭 Active projects i did
 ** Developer Job Boards : https://fullstackjob.com , https://golangjob.xy z, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
 ** Social Media Post Tool for Teams https://kunvenu.com
 ** Work/Task Management Tool for Remote Teams https://omnited.com
-- 🔭 See also: Organization repositories: https://github.com/altafino
+* 🔭 See also: Organization repositories: https://github.com/altafino
 
 ## 📫 How to reach me
 * [![LinkedIn](https://img.shields.io/badge/Stefan%20Wuthrich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanwuthrich/)](https://www.linkedin.com/in/stefanwuthrich/) 
