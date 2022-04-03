@@ -1,6 +1,6 @@
 ### Hi there, Stefan here 👋
 
-* 🔭 I’m currently working as Chief Product Office for a leading Swiss Software Company doing Products for Telecom & Messaging Industry
+* 🔭 I’m currently working as Chief Product Officer for a leading Swiss Software Company doing Products for Telecom & Messaging Industry
 * 🔭 I tweet about daily about interesting stuff done with #golang https://twitter.com/gloangch
 
 * 🔭 Active side projects i did/do
