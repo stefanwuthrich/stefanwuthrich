@@ -1,10 +1,10 @@
 ### Hi there, Stefan here 👋
 
-* 🔭 I’m currently working on "Automate your Data Transfer with our Integration PaaS" https://iomate.io
+* 🔭 I’m currently working as Chief Product Office for a leading Swiss Software Company doing Products for Telecom & Messaging Industry
 * 🔭 I tweet about daily about interesting stuff done with #golang https://twitter.com/gloangch
 
-* 🔭 Active projects i did
-* Developer Job Boards : https://fullstackjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
+* 🔭 Active side projects i did/do
+* Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
 * Social Media Post Tool for Teams https://kunvenu.com
 * Work/Task Management Tool for Remote Teams https://omnited.com
 
@@ -14,7 +14,7 @@
 * [![LinkedIn](https://img.shields.io/badge/Stefan%20Wuthrich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanwuthrich/)](https://www.linkedin.com/in/stefanwuthrich/) 
 * [Altafino - Full-Stack Developer (Go, JS, React, Vue)](https://altafino.com)
 * [Telegram](https://t.me/altafino)
-* [Twitter](https://twitter.com/bonfaru)
+* [Twitter Personal](https://twitter.com/bonfaru)
 
 ![](https://github-readme-stats.vercel.app/api?username=stefanwuthrich&count_private=true&show_icons=true&theme=tokyonight&line_height=27)
 
