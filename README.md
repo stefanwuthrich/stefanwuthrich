@@ -1,14 +1,15 @@
 ### Hi there, Stefan here 👋
 
-* 🔭 I’m currently working as Chief Product Officer for a leading Swiss Software Company doing Products for Telecom & Messaging Industry
-* 🔭 I tweet about daily about interesting stuff done with #golang https://twitter.com/gloangch
+🔭 I’m currently working as Chief Product Officer for a leading Swiss Software Company doing Products for Telecom & Messaging Industry
 
-* 🔭 Active side projects i did/do
+🔭 I tweet about daily about interesting stuff done with #golang https://twitter.com/gloangch
+
+🔭 Active side projects i did/do
 * Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
 * Social Media Post Tool for Teams https://kunvenu.com
 * Work/Task Management Tool for Remote Teams https://omnited.com
 
-* 🔭 See also: Organization repositories: https://github.com/altafino
+🔭 See also: Organization repositories: https://github.com/altafino
 
 ## 📫 How to reach me
 * [![LinkedIn](https://img.shields.io/badge/Stefan%20Wuthrich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefanwuthrich/)](https://www.linkedin.com/in/stefanwuthrich/) 
