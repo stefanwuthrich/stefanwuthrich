@@ -2,7 +2,7 @@
 
 🔭 I’m currently working as Chief Product Officer for a leading Swiss Software Company doing Products for Telecom & Messaging Industry
 
-🔭 I tweet daily about interesting stuff done with #golang https://twitter.com/gloangch
+🔭 I tweet daily about interesting stuff done with #golang https://twitter.com/golangch
 
 🔭 Active side projects i did/do
 * Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
