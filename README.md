@@ -5,7 +5,7 @@
 🔭 I tweet daily about interesting stuff done with #golang https://twitter.com/golangch
 
 🔭 Active side projects i did/do
-* Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
+* Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz , https://javajobs.pro
 * Social Media Post Tool for Teams https://kunvenu.com
 * Work/Task Management Tool for Remote Teams https://omnited.com
 
@@ -18,7 +18,7 @@
 * [Twitter Personal](https://twitter.com/bonfaru)
 
 ![](https://github-readme-stats.vercel.app/api?username=stefanwuthrich&count_private=true&show_icons=true&theme=tokyonight&line_height=27)
-![](https://github-readme-stats-eight-theta.vercel.app/api?organisation=altafino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=27)
+
 
 
 <!--
