@@ -18,6 +18,7 @@
 * [Twitter Personal](https://twitter.com/bonfaru)
 
 ![](https://github-readme-stats.vercel.app/api?username=stefanwuthrich&count_private=true&show_icons=true&theme=tokyonight&line_height=27)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=altafino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=27)
 
 
 <!--
