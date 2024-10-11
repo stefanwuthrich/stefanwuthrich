@@ -6,8 +6,8 @@
 
 🔭 Active side projects i did/do
 * Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz , https://javajobs.pro
-* Social Media Post Tool for Teams https://kunvenu.com
-* Work/Task Management Tool for Remote Teams https://omnited.com
+* iVisual - Human AI Photos
+  https://ivisual.ai
 
 🔭 See also: Organization repositories: https://github.com/altafino
 
