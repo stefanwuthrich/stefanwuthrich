@@ -2,12 +2,16 @@
 
 🔭 I’m currently working as Chief Product Officer for a leading Swiss Software Company doing Products for Telecom & Messaging Industry
 
-🔭 I tweet daily about interesting stuff done with #golang https://x.com/golangch
+🔭 I tweet daily about interesting stuff done with #golang https://x.com/golangch - https://bsky.app/profile/golangch.bsky.social - https://mastodon.social/@golangch
 
 🔭 Active side projects i did/do
 * Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
 * iVisual - Human AI Photos
   https://ivisual.ai
+* Vendante - Pre/Pos Sales ERP/CRM
+  https://vendante.com
+* ADHD Helper Web App (free)
+  https://mood.altafino.com
 
 🔭 See also: Organization repositories: https://github.com/altafino
 
