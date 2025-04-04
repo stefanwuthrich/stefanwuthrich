@@ -5,7 +5,7 @@
 🔭 I tweet daily about interesting stuff done with #golang https://x.com/golangch
 
 🔭 Active side projects i did/do
-* Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz , https://javajobs.pro
+* Developer Job Boards : https://fullstackjob.com , https://reactjsjob.com , https://golangjob.xyz, https://javascriptjob.xyz , https://pythonjob.xzy , https://rustjob.xyz
 * iVisual - Human AI Photos
   https://ivisual.ai
 
